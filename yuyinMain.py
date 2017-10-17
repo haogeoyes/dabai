@@ -130,6 +130,8 @@ while True:
                         #out=get_tuling(text)
                         #print out
 
+
+
 			#搜索儿歌
 			erge_status=False	#定义是否执行该动作
 			action=['放','听','讲','唱']
@@ -188,3 +190,4 @@ while True:
 		sleep(1)
 		#os.popen('omxplayer  -o local tishi.mp3')
 	sleep(0.05)
+
